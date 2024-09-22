@@ -1,0 +1,52 @@
+h1{
+    color: black;
+    border: black 2px;
+    margin: 10px;
+    padding: 10px;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tomas {       
+left: 86px;
+top: 377px;
+width: 350px;
+height: 350px;
+border-radius: 60%;
+border: 3px solid black;
+}
+
+.TituloPrincipal {
+font-family: 'Times New Roman', Times, serif;
+}
+
+.TituloSecundario {
+text-align: center;
+font-family: 'Times New Roman', Times, serif
+}
+
+.texto{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Contenedor1{
+    display: flex;
+}
+
+.fotocv{
+width: 650px;
+height: 650px;
+display: flex;
+}
+
+.computadora{
+    width: 700px;
+    height: 700px;
+}
